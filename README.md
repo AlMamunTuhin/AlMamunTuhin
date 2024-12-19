@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlMamunTuhin
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Backend Technologies
+- 🌱 I’m currently learning Backend Technologies(Node.js, Express.js, MongoDB)
 - 💞️ I’m looking to collaborate on Web based project
